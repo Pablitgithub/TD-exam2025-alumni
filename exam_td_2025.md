@@ -172,7 +172,7 @@ on:
 - D) `--function-name`  
 
 
-**Solución**:
+**Solución**:D
 
 
 ## **19. ¿Qué comandos de Terraform  de los listados a continuación se usaron durante la práctica para crear y destruir el clúster GKE?**
@@ -182,7 +182,7 @@ on:
 - D) `terraform clean`  
 
 
-**Solución**:
+**Solución**: A, C
 
 
 
