@@ -33,7 +33,7 @@ variable "gcp-node-count" {
 variable "gcp-node-size" {
   description = "K8s Worker nodes"
   type        = string
-  default     = "e2.small"
+  default     = "e2-standard-2"
 }
 variable "gcp-bucket-name" {
   description = "Bucket Name"
